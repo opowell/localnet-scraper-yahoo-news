@@ -1,0 +1,9 @@
+{
+  "scrapers": [
+    {
+      "name": "Yahoo News",
+      "urlPattern": "yahoo.com/news"
+    }
+  ],
+  "file": "yahoo-news.js"
+}
